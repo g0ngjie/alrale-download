@@ -1,5 +1,5 @@
 {
-  "name": "@alrale/file-download",
+  "name": "@alrale/download",
   "version": "1.0.2",
   "description": "download functions",
   "main": "src/index.js",
