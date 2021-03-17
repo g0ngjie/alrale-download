@@ -1,0 +1,23 @@
+{
+  "name": "@alrale/download",
+  "version": "1.0.0",
+  "description": "download functions",
+  "main": "src/index.js",
+  "files": [
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g0ngjie/alrale-download.git"
+  },
+  "keywords": [
+    "alrale",
+    "download"
+  ],
+  "author": "Gj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/g0ngjie/alrale-download/issues"
+  },
+  "homepage": "https://github.com/g0ngjie/alrale-download#readme"
+}
