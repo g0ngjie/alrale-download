@@ -4,7 +4,8 @@
   "description": "download functions",
   "main": "src/index.js",
   "files": [
-    "src"
+    "src",
+    "types"
   ],
   "repository": {
     "type": "git",
