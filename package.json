@@ -2,9 +2,9 @@
   "name": "@alrale/download",
   "version": "1.0.0",
   "description": "download functions",
-  "main": "src/index.js",
+  "main": "lib/index.js",
   "files": [
-    "src",
+    "lib",
     "types"
   ],
   "repository": {
