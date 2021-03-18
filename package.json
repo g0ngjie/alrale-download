@@ -3,10 +3,6 @@
   "version": "1.0.0",
   "description": "download functions",
   "main": "lib/index.js",
-  "files": [
-    "lib",
-    "types"
-  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/g0ngjie/alrale-download.git"
