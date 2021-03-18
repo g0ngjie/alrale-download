@@ -1,5 +1,5 @@
 {
-  "name": "@alrale/download",
+  "name": "@alrale/file-download",
   "version": "1.0.0",
   "description": "download functions",
   "private": false,
