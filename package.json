@@ -1,5 +1,5 @@
 {
-  "name": "@alrale/download",
+  "name": "@alrale/fast-download",
   "version": "1.0.2",
   "description": "download functions",
   "main": "src/index.js",
