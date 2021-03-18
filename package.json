@@ -2,6 +2,7 @@
   "name": "@alrale/download",
   "version": "1.0.0",
   "description": "download functions",
+  "private": false,
   "main": "lib/index.js",
   "files": [
     "lib",
@@ -11,6 +12,10 @@
     "type": "git",
     "url": "git+https://github.com/g0ngjie/alrale-download.git"
   },
+  "keywords": [
+    "alrale",
+    "download"
+  ],
   "author": "Gj",
   "license": "MIT",
   "bugs": {
