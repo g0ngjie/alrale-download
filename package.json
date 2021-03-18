@@ -11,10 +11,6 @@
     "type": "git",
     "url": "git+https://github.com/g0ngjie/alrale-download.git"
   },
-  "keywords": [
-    "alrale",
-    "download"
-  ],
   "author": "Gj",
   "license": "MIT",
   "bugs": {
