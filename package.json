@@ -1,6 +1,6 @@
 {
-  "name": "@alrale/fast-download",
-  "version": "1.0.2",
+  "name": "@alrale/download",
+  "version": "1.0.0",
   "description": "download functions",
   "main": "src/index.js",
   "files": [
