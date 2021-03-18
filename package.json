@@ -1,39 +1,24 @@
 {
   "name": "@alrale/download",
   "version": "1.0.0",
-  "description": "mock cli",
+  "description": "download functions",
   "main": "lib/index.js",
   "files": [
     "lib",
-    "public"
+    "types"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/g0ngjie/alrale-mock-server.git"
+    "url": "git+https://github.com/g0ngjie/alrale-download.git"
   },
   "keywords": [
     "alrale",
-    "cli",
-    "mock",
-    "mock"
+    "download"
   ],
   "author": "Gj",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/g0ngjie/alrale-mock-server/issues"
+    "url": "https://github.com/g0ngjie/alrale-download/issues"
   },
-  "homepage": "https://github.com/g0ngjie/alrale-mock-server#readme",
-  "dependencies": {
-    "commander": "^7.1.0",
-    "debug": "^4.3.1",
-    "fs-extra": "^9.1.0",
-    "koa": "^2.13.1",
-    "koa-bodyparser": "^4.3.0",
-    "koa-json": "^2.0.2",
-    "koa-router": "^10.0.0",
-    "koa-static": "^5.0.0",
-    "koa2-cors": "^2.0.6",
-    "mysql": "^2.18.1",
-    "open": "^8.0.2"
-  }
+  "homepage": "https://github.com/g0ngjie/alrale-download#readme"
 }
