@@ -7,7 +7,7 @@
  * simpleDownload(JSON.stringify({ alrale: 'simpleDownload' }, null, '\t'), 'alrale.json')
  * ```
  */
-export function simpleDownload(
+export declare function simpleDownload(
     target: string,
     fileName: string
 ): void
