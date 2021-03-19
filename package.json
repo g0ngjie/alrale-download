@@ -4,6 +4,7 @@
   "description": "download functions",
   "private": false,
   "main": "lib/index.js",
+  "typings": "types/index.d.ts",
   "files": [
     "lib",
     "types"
